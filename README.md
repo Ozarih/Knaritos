@@ -1,5 +1,5 @@
 # Normas de escritura de código
-Proyect MainTuner
+Proyecto MainTuner
 ========
 
 ------------
