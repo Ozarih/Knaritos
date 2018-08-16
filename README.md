@@ -1,8 +1,7 @@
-# Knaritos
+# Normas de escritura de código
 Proyect MainTuner
 ========
 
-UPDATE: Please see the Julia Docs Style Guide: https://docs.julialang.org/en/stable/manual/style-guide/ <br> This repository hasn't been updated in many years. Where it differs, prefer the Julia Docs guide, above.
 ------------
 
 This document lays out, in a very rough draft form, the style guidelines
