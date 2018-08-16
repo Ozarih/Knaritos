@@ -109,25 +109,25 @@ code, but the numbering is not yet finalized.
 
 # Naming Conventions
 
-(12) When naming variables or functions, use short lowercase names if possible:
+(12) When naming variables or functions, use camelcase short lowercase names:
 
 **Good style**
 
-    isna
+    isNotAvailable
 
 **Bad style**
 
-    isNotAvailable, is_not_available
+    isnotavailable, is_not_available,isna
 
-(13) If a variable or function name is too long to be read in all lowercase, insert underscores at word boundaries:
+(13) The functions names are Hungarian Standard:
 
 **Good style**
 
-    lookup_table
+    DeleteRows()
 
 **Bad style**
 
-    lookupTable, LookupTable
+    fDeleteRows(), Delete_Rows()
 
 (14) When naming mutable or immutable types, use initial-cap camelcase:
 
